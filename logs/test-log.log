@@ -1,0 +1,579 @@
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Azizul\AppData\Local\Temp\testng-eclipse--1913518912\testng-customsuite.xml
+
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2c22a348: 51 ms
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6754ef00: 10 ms
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7dd712e8: 12 ms
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3ef41c66: 5 ms
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@e041f0c: 6 ms
+2024-11-18 15:39:37 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6a175569: 0 ms
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Azizul\AppData\Local\Temp\testng-eclipse--93625966\testng-customsuite.xml
+
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2c22a348: 43 ms
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6754ef00: 8 ms
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7dd712e8: 10 ms
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3ef41c66: 9 ms
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@e041f0c: 7 ms
+2024-11-18 15:39:50 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6a175569: 0 ms
+2024-11-18 15:41:31 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Azizul\eclipse-workspace\Hybrid_Automation_Framework\localtests.xml
+
+2024-11-18 15:41:40 [TestNG-tests-2] INFO  testcases.TC1_Registration - WebDriver initialized for: edge
+2024-11-18 15:41:46 [TestNG-tests-1] INFO  testcases.TC1_Registration - WebDriver initialized for: chrome
+2024-11-18 15:41:47 [TestNG-tests-2] INFO  testcases.TC1_Registration - WebDriver quit and removed from ThreadLocal.
+2024-11-18 15:41:48 [TestNG-tests-2] INFO  testcases.TC2_Login - WebDriver initialized for: edge
+2024-11-18 15:41:52 [TestNG-tests-1] INFO  testcases.TC1_Registration - WebDriver quit and removed from ThreadLocal.
+2024-11-18 15:41:53 [TestNG-tests-1] INFO  testcases.TC2_Login - WebDriver initialized for: chrome
+2024-11-18 15:41:54 [TestNG-tests-2] INFO  testcases.TC2_Login - WebDriver quit and removed from ThreadLocal.
+2024-11-18 15:41:56 [TestNG-tests-1] INFO  testcases.TC2_Login - Navigated to application URL: http://localhost/opencart/upload/ 
+2024-11-18 15:42:07 [TestNG-tests-1] INFO  testcases.TC2_Login - Clicked on 'My Account' link.
+2024-11-18 15:42:17 [TestNG-tests-1] INFO  testcases.TC2_Login - Clicked on 'Login' link, navigating to the Login Page.
+2024-11-18 15:42:17 [TestNG-tests-1] INFO  testcases.TC2_Login - Entering user login credentials...
+2024-11-18 15:42:17 [TestNG-tests-1] INFO  testcases.TC2_Login - WebDriver quit and removed from ThreadLocal.
+2024-11-18 15:42:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Azizul\eclipse-workspace\Hybrid_Automation_Framework\test-output\testng-failed.xml
+
+2024-11-18 15:42:53 [TestNG-tests-1] INFO  testcases.TC2_Login - WebDriver initialized for: edge
+2024-11-18 15:42:58 [TestNG-tests-1] INFO  testcases.TC2_Login - Navigated to application URL: http://localhost/opencart/upload/ 
+2024-11-18 15:43:08 [TestNG-tests-1] INFO  testcases.TC2_Login - Clicked on 'My Account' link.
+2024-11-18 15:43:18 [TestNG-tests-1] INFO  testcases.TC2_Login - Clicked on 'Login' link, navigating to the Login Page.
+2024-11-18 15:43:18 [TestNG-tests-1] INFO  testcases.TC2_Login - Entering user login credentials...
+2024-11-18 15:43:20 [TestNG-tests-1] INFO  testcases.TC2_Login - WebDriver quit and removed from ThreadLocal.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Azizul\AppData\Local\Temp\testng-eclipse-325409914\testng-customsuite.xml
+
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2c22a348: 60 ms
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6754ef00: 10 ms
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7dd712e8: 8 ms
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3ef41c66: 5 ms
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6a175569: 8 ms
+2024-11-18 15:51:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@11963225: 0 ms
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Azizul\AppData\Local\Temp\testng-eclipse-1303085873\testng-customsuite.xml
+
+2024-11-18 15:54:30 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-11-18 15:54:31 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2c22a348: 55 ms
+2024-11-18 15:54:31 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6754ef00: 11 ms
+2024-11-18 15:54:31 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7dd712e8: 11 ms
+2024-11-18 15:54:31 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3ef41c66: 6 ms
+2024-11-18 15:54:31 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@e041f0c: 8 ms
+2024-11-18 15:54:31 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6a175569: 0 ms
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Azizul\AppData\Local\Temp\testng-eclipse-1722108074\testng-customsuite.xml
+
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2c22a348: 44 ms
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6754ef00: 7 ms
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7dd712e8: 9 ms
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3ef41c66: 7 ms
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@e041f0c: 5 ms
+2024-11-18 15:54:44 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6a175569: 0 ms
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Azizul\AppData\Local\Temp\testng-eclipse-924880659\testng-customsuite.xml
+
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2c22a348: 111 ms
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6754ef00: 54 ms
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7dd712e8: 25 ms
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3ef41c66: 16 ms
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@e041f0c: 12 ms
+2024-11-21 18:27:19 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6a175569: 0 ms
+2024-11-21 22:00:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Azizul\eclipse-workspace\Hybrid_Automation_Framework\localtests.xml
+
+2024-11-21 22:01:04 [main] INFO  testcases.TC1_Registration - WebDriver initialized for: chrome
+2024-11-21 22:01:07 [main] INFO  testcases.TC1_Registration - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:01:07 [main] INFO  testcases.TC1_Registration - Clicked on 'My Account' link.
+2024-11-21 22:01:08 [main] INFO  testcases.TC1_Registration - Clicked on 'Register' link, navigating to the Registration Page.
+2024-11-21 22:01:08 [main] INFO  testcases.TC1_Registration - Entering user details for registration...
+2024-11-21 22:01:08 [main] INFO  testcases.TC1_Registration - First Name set successfully.
+2024-11-21 22:01:08 [main] INFO  testcases.TC1_Registration - Last Name set successfully.
+2024-11-21 22:01:09 [main] INFO  testcases.TC1_Registration - Entered Email: zppqe@gmail.com
+2024-11-21 22:01:09 [main] INFO  testcases.TC1_Registration - Entered Telephone: 60792
+2024-11-21 22:01:09 [main] INFO  testcases.TC1_Registration - Entered and confirmed password successfully.
+2024-11-21 22:01:09 [main] INFO  testcases.TC1_Registration - Agreed to Privacy Policy.
+2024-11-21 22:01:10 [main] INFO  testcases.TC1_Registration - Clicked 'Continue' to submit the registration form.
+2024-11-21 22:01:10 [main] INFO  testcases.TC1_Registration - Validating the confirmation message...
+2024-11-21 22:01:10 [main] INFO  testcases.TC1_Registration - Account registration successful. Confirmation message validated.
+2024-11-21 22:01:10 [main] INFO  testcases.TC1_Registration - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:01:11 [main] INFO  testcases.TC2_Login - WebDriver initialized for: chrome
+2024-11-21 22:01:14 [main] INFO  testcases.TC2_Login - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:01:14 [main] INFO  testcases.TC2_Login - Clicked on 'My Account' link.
+2024-11-21 22:01:15 [main] INFO  testcases.TC2_Login - Clicked on 'Login' link, navigating to the Login Page.
+2024-11-21 22:01:15 [main] INFO  testcases.TC2_Login - Entering user login credentials...
+2024-11-21 22:01:15 [main] INFO  testcases.TC2_Login - Entered email: mhoque.cloud@gmail.com
+2024-11-21 22:01:15 [main] INFO  testcases.TC2_Login - Entered password.
+2024-11-21 22:01:16 [main] INFO  testcases.TC2_Login - Clicked on the 'Login' button.
+2024-11-21 22:01:16 [main] INFO  testcases.TC2_Login - Verifying if the 'My Account' page is displayed...
+2024-11-21 22:01:16 [main] INFO  testcases.TC2_Login - Login successful. 'My Account' page is displayed.
+2024-11-21 22:01:16 [main] INFO  testcases.TC2_Login - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:01:17 [main] INFO  testcases.TC3_Logout - WebDriver initialized for: chrome
+2024-11-21 22:01:18 [main] INFO  testcases.TC3_Logout - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:01:19 [main] INFO  testcases.TC4_SeachProduct - WebDriver initialized for: chrome
+2024-11-21 22:01:21 [main] INFO  testcases.TC4_SeachProduct - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:01:21 [main] INFO  testcases.TC4_SeachProduct - Navigated to the Home page.
+2024-11-21 22:01:22 [main] INFO  testcases.TC4_SeachProduct - Entered product name in search field: mac
+2024-11-21 22:01:22 [main] INFO  testcases.TC4_SeachProduct - Clicked on the 'Search' button to initiate product search.
+2024-11-21 22:01:22 [main] INFO  testcases.TC4_SeachProduct - Navigated to the Search Results page.
+2024-11-21 22:01:22 [main] INFO  testcases.TC4_SeachProduct - Verifying if the product 'MacBook' is displayed in the search results.
+2024-11-21 22:01:22 [main] INFO  testcases.TC4_SeachProduct - Product 'MacBook' found in search results. Test passed.
+2024-11-21 22:01:23 [main] INFO  testcases.TC4_SeachProduct - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:01:24 [main] INFO  testcases.TC5_AddToCart - WebDriver initialized for: chrome
+2024-11-21 22:01:27 [main] INFO  testcases.TC5_AddToCart - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:01:27 [main] INFO  testcases.TC5_AddToCart - Entered product name in the search box: iPhone
+2024-11-21 22:01:27 [main] INFO  testcases.TC5_AddToCart - Clicked the Search button.
+2024-11-21 22:01:27 [main] INFO  testcases.TC5_AddToCart - Product found in search results: iPhone
+2024-11-21 22:01:28 [main] INFO  testcases.TC5_AddToCart - Selected product: iPhone
+2024-11-21 22:01:28 [main] INFO  testcases.TC5_AddToCart - Set quantity to: 2
+2024-11-21 22:01:29 [main] INFO  testcases.TC5_AddToCart - Clicked 'Add to Cart' for product: iPhone
+2024-11-21 22:01:49 [main] INFO  testcases.TC5_AddToCart - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:01:50 [main] INFO  testcases.TC6_EndToEndTest - WebDriver initialized for: chrome
+2024-11-21 22:01:53 [main] INFO  testcases.TC6_EndToEndTest - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:01:56 [main] INFO  testcases.TC6_EndToEndTest - Registration Confirmation: Your Account Has Been Created!
+2024-11-21 22:01:56 [main] INFO  testcases.TC6_EndToEndTest - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:04:04 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Azizul\eclipse-workspace\Hybrid_Automation_Framework\localtests.xml
+
+2024-11-21 22:04:07 [main] INFO  testcases.TC1_Registration - WebDriver initialized for: chrome
+2024-11-21 22:04:10 [main] INFO  testcases.TC1_Registration - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:04:10 [main] INFO  testcases.TC1_Registration - Clicked on 'My Account' link.
+2024-11-21 22:04:11 [main] INFO  testcases.TC1_Registration - Clicked on 'Register' link, navigating to the Registration Page.
+2024-11-21 22:04:11 [main] INFO  testcases.TC1_Registration - Entering user details for registration...
+2024-11-21 22:04:11 [main] INFO  testcases.TC1_Registration - First Name set successfully.
+2024-11-21 22:04:11 [main] INFO  testcases.TC1_Registration - Last Name set successfully.
+2024-11-21 22:04:12 [main] INFO  testcases.TC1_Registration - Entered Email: Ijivs@gmail.com
+2024-11-21 22:04:12 [main] INFO  testcases.TC1_Registration - Entered Telephone: 35653
+2024-11-21 22:04:12 [main] INFO  testcases.TC1_Registration - Entered and confirmed password successfully.
+2024-11-21 22:04:12 [main] INFO  testcases.TC1_Registration - Agreed to Privacy Policy.
+2024-11-21 22:04:14 [main] INFO  testcases.TC1_Registration - Clicked 'Continue' to submit the registration form.
+2024-11-21 22:04:14 [main] INFO  testcases.TC1_Registration - Validating the confirmation message...
+2024-11-21 22:04:14 [main] INFO  testcases.TC1_Registration - Account registration successful. Confirmation message validated.
+2024-11-21 22:04:14 [main] INFO  testcases.TC1_Registration - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:04:15 [main] INFO  testcases.TC2_Login - WebDriver initialized for: chrome
+2024-11-21 22:04:18 [main] INFO  testcases.TC2_Login - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:04:19 [main] INFO  testcases.TC2_Login - Clicked on 'My Account' link.
+2024-11-21 22:04:19 [main] INFO  testcases.TC2_Login - Clicked on 'Login' link, navigating to the Login Page.
+2024-11-21 22:04:19 [main] INFO  testcases.TC2_Login - Entering user login credentials...
+2024-11-21 22:04:20 [main] INFO  testcases.TC2_Login - Entered email: mhoque.cloud@gmail.com
+2024-11-21 22:04:20 [main] INFO  testcases.TC2_Login - Entered password.
+2024-11-21 22:04:21 [main] INFO  testcases.TC2_Login - Clicked on the 'Login' button.
+2024-11-21 22:04:21 [main] INFO  testcases.TC2_Login - Verifying if the 'My Account' page is displayed...
+2024-11-21 22:04:21 [main] INFO  testcases.TC2_Login - Login successful. 'My Account' page is displayed.
+2024-11-21 22:04:21 [main] INFO  testcases.TC2_Login - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:04:23 [main] INFO  testcases.TC3_Logout - WebDriver initialized for: chrome
+2024-11-21 22:04:24 [main] INFO  testcases.TC3_Logout - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:04:25 [main] INFO  testcases.TC4_SeachProduct - WebDriver initialized for: chrome
+2024-11-21 22:04:26 [main] INFO  testcases.TC4_SeachProduct - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:04:26 [main] INFO  testcases.TC4_SeachProduct - Navigated to the Home page.
+2024-11-21 22:04:28 [main] INFO  testcases.TC4_SeachProduct - Entered product name in search field: mac
+2024-11-21 22:04:29 [main] INFO  testcases.TC4_SeachProduct - Clicked on the 'Search' button to initiate product search.
+2024-11-21 22:04:29 [main] INFO  testcases.TC4_SeachProduct - Navigated to the Search Results page.
+2024-11-21 22:04:29 [main] INFO  testcases.TC4_SeachProduct - Verifying if the product 'MacBook' is displayed in the search results.
+2024-11-21 22:04:29 [main] INFO  testcases.TC4_SeachProduct - Product 'MacBook' found in search results. Test passed.
+2024-11-21 22:04:29 [main] INFO  testcases.TC4_SeachProduct - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:04:31 [main] INFO  testcases.TC5_AddToCart - WebDriver initialized for: chrome
+2024-11-21 22:04:34 [main] INFO  testcases.TC5_AddToCart - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:04:34 [main] INFO  testcases.TC5_AddToCart - Entered product name in the search box: iPhone
+2024-11-21 22:04:35 [main] INFO  testcases.TC5_AddToCart - Clicked the Search button.
+2024-11-21 22:04:35 [main] INFO  testcases.TC5_AddToCart - Product found in search results: iPhone
+2024-11-21 22:04:36 [main] INFO  testcases.TC5_AddToCart - Selected product: iPhone
+2024-11-21 22:04:36 [main] INFO  testcases.TC5_AddToCart - Set quantity to: 2
+2024-11-21 22:04:36 [main] INFO  testcases.TC5_AddToCart - Clicked 'Add to Cart' for product: iPhone
+2024-11-21 22:04:57 [main] INFO  testcases.TC5_AddToCart - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:04:58 [main] INFO  testcases.TC6_EndToEndTest - WebDriver initialized for: chrome
+2024-11-21 22:05:01 [main] INFO  testcases.TC6_EndToEndTest - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:05:22 [main] INFO  testcases.TC6_EndToEndTest - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:20:01 [TestNG-tests-2] INFO  testcases.TC1_Registration - WebDriver initialized for: edge
+2024-11-21 22:20:01 [TestNG-tests-1] INFO  testcases.TC1_Registration - WebDriver initialized for: chrome
+2024-11-21 22:20:04 [TestNG-tests-2] INFO  testcases.TC1_Registration - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:20:04 [TestNG-tests-2] INFO  testcases.TC1_Registration - Clicked on 'My Account' link.
+2024-11-21 22:20:05 [TestNG-tests-1] INFO  testcases.TC1_Registration - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:20:05 [TestNG-tests-1] INFO  testcases.TC1_Registration - Clicked on 'My Account' link.
+2024-11-21 22:20:05 [TestNG-tests-2] INFO  testcases.TC1_Registration - Clicked on 'Register' link, navigating to the Registration Page.
+2024-11-21 22:20:05 [TestNG-tests-2] INFO  testcases.TC1_Registration - Entering user details for registration...
+2024-11-21 22:20:05 [TestNG-tests-2] INFO  testcases.TC1_Registration - First Name set successfully.
+2024-11-21 22:20:05 [TestNG-tests-2] INFO  testcases.TC1_Registration - Last Name set successfully.
+2024-11-21 22:20:06 [TestNG-tests-2] INFO  testcases.TC1_Registration - Entered Email: FYpum@gmail.com
+2024-11-21 22:20:06 [TestNG-tests-2] INFO  testcases.TC1_Registration - Entered Telephone: 03005
+2024-11-21 22:20:06 [TestNG-tests-1] INFO  testcases.TC1_Registration - Clicked on 'Register' link, navigating to the Registration Page.
+2024-11-21 22:20:06 [TestNG-tests-1] INFO  testcases.TC1_Registration - Entering user details for registration...
+2024-11-21 22:20:06 [TestNG-tests-2] INFO  testcases.TC1_Registration - Entered and confirmed password successfully.
+2024-11-21 22:20:06 [TestNG-tests-1] INFO  testcases.TC1_Registration - First Name set successfully.
+2024-11-21 22:20:06 [TestNG-tests-1] INFO  testcases.TC1_Registration - Last Name set successfully.
+2024-11-21 22:20:06 [TestNG-tests-2] INFO  testcases.TC1_Registration - Agreed to Privacy Policy.
+2024-11-21 22:20:06 [TestNG-tests-1] INFO  testcases.TC1_Registration - Entered Email: vWJsM@gmail.com
+2024-11-21 22:20:07 [TestNG-tests-1] INFO  testcases.TC1_Registration - Entered Telephone: 35836
+2024-11-21 22:20:07 [TestNG-tests-1] INFO  testcases.TC1_Registration - Entered and confirmed password successfully.
+2024-11-21 22:20:07 [TestNG-tests-1] INFO  testcases.TC1_Registration - Agreed to Privacy Policy.
+2024-11-21 22:20:07 [TestNG-tests-2] INFO  testcases.TC1_Registration - Clicked 'Continue' to submit the registration form.
+2024-11-21 22:20:07 [TestNG-tests-2] INFO  testcases.TC1_Registration - Validating the confirmation message...
+2024-11-21 22:20:08 [TestNG-tests-2] INFO  testcases.TC1_Registration - Account registration successful. Confirmation message validated.
+2024-11-21 22:20:08 [TestNG-tests-1] INFO  testcases.TC1_Registration - Clicked 'Continue' to submit the registration form.
+2024-11-21 22:20:08 [TestNG-tests-1] INFO  testcases.TC1_Registration - Validating the confirmation message...
+2024-11-21 22:20:08 [TestNG-tests-1] INFO  testcases.TC1_Registration - Account registration successful. Confirmation message validated.
+2024-11-21 22:20:08 [TestNG-tests-1] INFO  testcases.TC1_Registration - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:20:09 [TestNG-tests-2] INFO  testcases.TC1_Registration - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:20:10 [TestNG-tests-1] INFO  testcases.TC2_Login - WebDriver initialized for: chrome
+2024-11-21 22:20:11 [TestNG-tests-1] INFO  testcases.TC2_Login - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:20:11 [TestNG-tests-2] INFO  testcases.TC2_Login - WebDriver initialized for: edge
+2024-11-21 22:20:13 [TestNG-tests-2] INFO  testcases.TC2_Login - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:20:13 [TestNG-tests-1] INFO  testcases.TC2_Login - Clicked on 'My Account' link.
+2024-11-21 22:20:14 [TestNG-tests-1] INFO  testcases.TC2_Login - Clicked on 'Login' link, navigating to the Login Page.
+2024-11-21 22:20:14 [TestNG-tests-1] INFO  testcases.TC2_Login - Entering user login credentials...
+2024-11-21 22:20:14 [TestNG-tests-1] INFO  testcases.TC2_Login - Entered email: mhoque.cloud@gmail.com
+2024-11-21 22:20:15 [TestNG-tests-1] INFO  testcases.TC2_Login - Entered password.
+2024-11-21 22:20:15 [TestNG-tests-2] INFO  testcases.TC2_Login - Clicked on 'My Account' link.
+2024-11-21 22:20:16 [TestNG-tests-2] INFO  testcases.TC2_Login - Clicked on 'Login' link, navigating to the Login Page.
+2024-11-21 22:20:16 [TestNG-tests-2] INFO  testcases.TC2_Login - Entering user login credentials...
+2024-11-21 22:20:16 [TestNG-tests-2] INFO  testcases.TC2_Login - Entered email: mhoque.cloud@gmail.com
+2024-11-21 22:20:16 [TestNG-tests-2] INFO  testcases.TC2_Login - Entered password.
+2024-11-21 22:20:16 [TestNG-tests-1] INFO  testcases.TC2_Login - Clicked on the 'Login' button.
+2024-11-21 22:20:16 [TestNG-tests-1] INFO  testcases.TC2_Login - Verifying if the 'My Account' page is displayed...
+2024-11-21 22:20:16 [TestNG-tests-1] INFO  testcases.TC2_Login - Login successful. 'My Account' page is displayed.
+2024-11-21 22:20:17 [TestNG-tests-1] INFO  testcases.TC2_Login - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:20:18 [TestNG-tests-2] INFO  testcases.TC2_Login - Clicked on the 'Login' button.
+2024-11-21 22:20:18 [TestNG-tests-2] INFO  testcases.TC2_Login - Verifying if the 'My Account' page is displayed...
+2024-11-21 22:20:18 [TestNG-tests-2] INFO  testcases.TC2_Login - Login successful. 'My Account' page is displayed.
+2024-11-21 22:20:19 [TestNG-tests-2] INFO  testcases.TC2_Login - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:23:10 [TestNG-tests-1] INFO  testcases.TC1_Registration - WebDriver initialized for: chrome
+2024-11-21 22:23:10 [TestNG-tests-2] INFO  testcases.TC1_Registration - WebDriver initialized for: edge
+2024-11-21 22:23:13 [TestNG-tests-2] INFO  testcases.TC1_Registration - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:23:13 [TestNG-tests-2] INFO  testcases.TC1_Registration - Clicked on 'My Account' link.
+2024-11-21 22:23:13 [TestNG-tests-1] INFO  testcases.TC1_Registration - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:23:13 [TestNG-tests-1] INFO  testcases.TC1_Registration - Clicked on 'My Account' link.
+2024-11-21 22:23:14 [TestNG-tests-2] INFO  testcases.TC1_Registration - Clicked on 'Register' link, navigating to the Registration Page.
+2024-11-21 22:23:14 [TestNG-tests-2] INFO  testcases.TC1_Registration - Entering user details for registration...
+2024-11-21 22:23:14 [TestNG-tests-2] INFO  testcases.TC1_Registration - First Name set successfully.
+2024-11-21 22:23:14 [TestNG-tests-2] INFO  testcases.TC1_Registration - Last Name set successfully.
+2024-11-21 22:23:14 [TestNG-tests-1] INFO  testcases.TC1_Registration - Clicked on 'Register' link, navigating to the Registration Page.
+2024-11-21 22:23:14 [TestNG-tests-1] INFO  testcases.TC1_Registration - Entering user details for registration...
+2024-11-21 22:23:14 [TestNG-tests-2] INFO  testcases.TC1_Registration - Entered Email: cYozb@gmail.com
+2024-11-21 22:23:14 [TestNG-tests-1] INFO  testcases.TC1_Registration - First Name set successfully.
+2024-11-21 22:23:14 [TestNG-tests-2] INFO  testcases.TC1_Registration - Entered Telephone: 54438
+2024-11-21 22:23:14 [TestNG-tests-1] INFO  testcases.TC1_Registration - Last Name set successfully.
+2024-11-21 22:23:14 [TestNG-tests-1] INFO  testcases.TC1_Registration - Entered Email: ePakW@gmail.com
+2024-11-21 22:23:15 [TestNG-tests-2] INFO  testcases.TC1_Registration - Entered and confirmed password successfully.
+2024-11-21 22:23:15 [TestNG-tests-1] INFO  testcases.TC1_Registration - Entered Telephone: 16768
+2024-11-21 22:23:15 [TestNG-tests-2] INFO  testcases.TC1_Registration - Agreed to Privacy Policy.
+2024-11-21 22:23:15 [TestNG-tests-1] INFO  testcases.TC1_Registration - Entered and confirmed password successfully.
+2024-11-21 22:23:15 [TestNG-tests-1] INFO  testcases.TC1_Registration - Agreed to Privacy Policy.
+2024-11-21 22:23:16 [TestNG-tests-2] INFO  testcases.TC1_Registration - Clicked 'Continue' to submit the registration form.
+2024-11-21 22:23:16 [TestNG-tests-2] INFO  testcases.TC1_Registration - Validating the confirmation message...
+2024-11-21 22:23:16 [TestNG-tests-2] INFO  testcases.TC1_Registration - Account registration successful. Confirmation message validated.
+2024-11-21 22:23:16 [TestNG-tests-1] INFO  testcases.TC1_Registration - Clicked 'Continue' to submit the registration form.
+2024-11-21 22:23:16 [TestNG-tests-1] INFO  testcases.TC1_Registration - Validating the confirmation message...
+2024-11-21 22:23:16 [TestNG-tests-1] INFO  testcases.TC1_Registration - Account registration successful. Confirmation message validated.
+2024-11-21 22:23:16 [TestNG-tests-1] INFO  testcases.TC1_Registration - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:23:17 [TestNG-tests-2] INFO  testcases.TC1_Registration - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:23:17 [TestNG-tests-1] INFO  testcases.TC2_Login - WebDriver initialized for: chrome
+2024-11-21 22:23:18 [TestNG-tests-2] INFO  testcases.TC2_Login - WebDriver initialized for: edge
+2024-11-21 22:23:20 [TestNG-tests-1] INFO  testcases.TC2_Login - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:23:20 [TestNG-tests-1] INFO  testcases.TC2_Login - Clicked on 'My Account' link.
+2024-11-21 22:23:21 [TestNG-tests-1] INFO  testcases.TC2_Login - Clicked on 'Login' link, navigating to the Login Page.
+2024-11-21 22:23:21 [TestNG-tests-1] INFO  testcases.TC2_Login - Entering user login credentials...
+2024-11-21 22:23:21 [TestNG-tests-2] INFO  testcases.TC2_Login - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:23:21 [TestNG-tests-1] INFO  testcases.TC2_Login - Entered email: mhoque.cloud@gmail.com
+2024-11-21 22:23:21 [TestNG-tests-2] INFO  testcases.TC2_Login - Clicked on 'My Account' link.
+2024-11-21 22:23:21 [TestNG-tests-1] INFO  testcases.TC2_Login - Entered password.
+2024-11-21 22:23:22 [TestNG-tests-2] INFO  testcases.TC2_Login - Clicked on 'Login' link, navigating to the Login Page.
+2024-11-21 22:23:22 [TestNG-tests-2] INFO  testcases.TC2_Login - Entering user login credentials...
+2024-11-21 22:23:22 [TestNG-tests-2] INFO  testcases.TC2_Login - Entered email: mhoque.cloud@gmail.com
+2024-11-21 22:23:22 [TestNG-tests-2] INFO  testcases.TC2_Login - Entered password.
+2024-11-21 22:23:23 [TestNG-tests-1] INFO  testcases.TC2_Login - Clicked on the 'Login' button.
+2024-11-21 22:23:23 [TestNG-tests-1] INFO  testcases.TC2_Login - Verifying if the 'My Account' page is displayed...
+2024-11-21 22:23:23 [TestNG-tests-1] INFO  testcases.TC2_Login - Login successful. 'My Account' page is displayed.
+2024-11-21 22:23:23 [TestNG-tests-1] INFO  testcases.TC2_Login - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:23:23 [TestNG-tests-2] INFO  testcases.TC2_Login - Clicked on the 'Login' button.
+2024-11-21 22:23:23 [TestNG-tests-2] INFO  testcases.TC2_Login - Verifying if the 'My Account' page is displayed...
+2024-11-21 22:23:24 [TestNG-tests-2] INFO  testcases.TC2_Login - Login successful. 'My Account' page is displayed.
+2024-11-21 22:23:25 [TestNG-tests-2] INFO  testcases.TC2_Login - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:26:23 [TestNG-tests-1] INFO  testcases.TC1_Registration - WebDriver initialized for: chrome
+2024-11-21 22:26:23 [TestNG-tests-2] INFO  testcases.TC1_Registration - WebDriver initialized for: edge
+2024-11-21 22:26:25 [TestNG-tests-2] INFO  testcases.TC1_Registration - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:26:25 [TestNG-tests-2] INFO  testcases.TC1_Registration - Clicked on 'My Account' link.
+2024-11-21 22:26:26 [TestNG-tests-1] INFO  testcases.TC1_Registration - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:26:26 [TestNG-tests-1] INFO  testcases.TC1_Registration - Clicked on 'My Account' link.
+2024-11-21 22:26:26 [TestNG-tests-2] INFO  testcases.TC1_Registration - Clicked on 'Register' link, navigating to the Registration Page.
+2024-11-21 22:26:26 [TestNG-tests-2] INFO  testcases.TC1_Registration - Entering user details for registration...
+2024-11-21 22:26:26 [TestNG-tests-2] INFO  testcases.TC1_Registration - First Name set successfully.
+2024-11-21 22:26:27 [TestNG-tests-2] INFO  testcases.TC1_Registration - Last Name set successfully.
+2024-11-21 22:26:27 [TestNG-tests-2] INFO  testcases.TC1_Registration - Entered Email: VQvga@gmail.com
+2024-11-21 22:26:27 [TestNG-tests-1] INFO  testcases.TC1_Registration - Clicked on 'Register' link, navigating to the Registration Page.
+2024-11-21 22:26:27 [TestNG-tests-1] INFO  testcases.TC1_Registration - Entering user details for registration...
+2024-11-21 22:26:27 [TestNG-tests-2] INFO  testcases.TC1_Registration - Entered Telephone: 48593
+2024-11-21 22:26:27 [TestNG-tests-1] INFO  testcases.TC1_Registration - First Name set successfully.
+2024-11-21 22:26:27 [TestNG-tests-1] INFO  testcases.TC1_Registration - Last Name set successfully.
+2024-11-21 22:26:27 [TestNG-tests-2] INFO  testcases.TC1_Registration - Entered and confirmed password successfully.
+2024-11-21 22:26:27 [TestNG-tests-1] INFO  testcases.TC1_Registration - Entered Email: yHIRt@gmail.com
+2024-11-21 22:26:27 [TestNG-tests-1] INFO  testcases.TC1_Registration - Entered Telephone: 94317
+2024-11-21 22:26:27 [TestNG-tests-2] INFO  testcases.TC1_Registration - Agreed to Privacy Policy.
+2024-11-21 22:26:28 [TestNG-tests-1] INFO  testcases.TC1_Registration - Entered and confirmed password successfully.
+2024-11-21 22:26:28 [TestNG-tests-1] INFO  testcases.TC1_Registration - Agreed to Privacy Policy.
+2024-11-21 22:26:29 [TestNG-tests-2] INFO  testcases.TC1_Registration - Clicked 'Continue' to submit the registration form.
+2024-11-21 22:26:29 [TestNG-tests-2] INFO  testcases.TC1_Registration - Validating the confirmation message...
+2024-11-21 22:26:29 [TestNG-tests-2] INFO  testcases.TC1_Registration - Account registration successful. Confirmation message validated.
+2024-11-21 22:26:29 [TestNG-tests-1] INFO  testcases.TC1_Registration - Clicked 'Continue' to submit the registration form.
+2024-11-21 22:26:29 [TestNG-tests-1] INFO  testcases.TC1_Registration - Validating the confirmation message...
+2024-11-21 22:26:29 [TestNG-tests-1] INFO  testcases.TC1_Registration - Account registration successful. Confirmation message validated.
+2024-11-21 22:26:29 [TestNG-tests-1] INFO  testcases.TC1_Registration - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:26:30 [TestNG-tests-2] INFO  testcases.TC1_Registration - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:26:30 [TestNG-tests-1] INFO  testcases.TC2_Login - WebDriver initialized for: chrome
+2024-11-21 22:26:31 [TestNG-tests-1] INFO  testcases.TC2_Login - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:26:31 [TestNG-tests-2] INFO  testcases.TC2_Login - WebDriver initialized for: edge
+2024-11-21 22:26:34 [TestNG-tests-1] INFO  testcases.TC2_Login - Clicked on 'My Account' link.
+2024-11-21 22:26:34 [TestNG-tests-1] INFO  testcases.TC2_Login - Clicked on 'Login' link, navigating to the Login Page.
+2024-11-21 22:26:34 [TestNG-tests-1] INFO  testcases.TC2_Login - Entering user login credentials...
+2024-11-21 22:26:34 [TestNG-tests-1] INFO  testcases.TC2_Login - Entered email: mhoque.cloud@gmail.com
+2024-11-21 22:26:35 [TestNG-tests-2] INFO  testcases.TC2_Login - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:26:35 [TestNG-tests-1] INFO  testcases.TC2_Login - Entered password.
+2024-11-21 22:26:35 [TestNG-tests-2] INFO  testcases.TC2_Login - Clicked on 'My Account' link.
+2024-11-21 22:26:36 [TestNG-tests-2] INFO  testcases.TC2_Login - Clicked on 'Login' link, navigating to the Login Page.
+2024-11-21 22:26:36 [TestNG-tests-2] INFO  testcases.TC2_Login - Entering user login credentials...
+2024-11-21 22:26:36 [TestNG-tests-2] INFO  testcases.TC2_Login - Entered email: mhoque.cloud@gmail.com
+2024-11-21 22:26:36 [TestNG-tests-2] INFO  testcases.TC2_Login - Entered password.
+2024-11-21 22:26:36 [TestNG-tests-1] INFO  testcases.TC2_Login - Clicked on the 'Login' button.
+2024-11-21 22:26:36 [TestNG-tests-1] INFO  testcases.TC2_Login - Verifying if the 'My Account' page is displayed...
+2024-11-21 22:26:36 [TestNG-tests-1] INFO  testcases.TC2_Login - Login successful. 'My Account' page is displayed.
+2024-11-21 22:26:36 [TestNG-tests-1] INFO  testcases.TC2_Login - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:26:37 [TestNG-tests-2] INFO  testcases.TC2_Login - Clicked on the 'Login' button.
+2024-11-21 22:26:37 [TestNG-tests-2] INFO  testcases.TC2_Login - Verifying if the 'My Account' page is displayed...
+2024-11-21 22:26:37 [TestNG-tests-2] INFO  testcases.TC2_Login - Login successful. 'My Account' page is displayed.
+2024-11-21 22:26:39 [TestNG-tests-2] INFO  testcases.TC2_Login - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:31:02 [TestNG-tests-1] INFO  testcases.TC1_Registration - WebDriver initialized for: chrome
+2024-11-21 22:31:02 [TestNG-tests-2] INFO  testcases.TC1_Registration - WebDriver initialized for: edge
+2024-11-21 22:31:05 [TestNG-tests-2] INFO  testcases.TC1_Registration - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:31:05 [TestNG-tests-2] INFO  testcases.TC1_Registration - Clicked on 'My Account' link.
+2024-11-21 22:31:06 [TestNG-tests-1] INFO  testcases.TC1_Registration - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:31:06 [TestNG-tests-1] INFO  testcases.TC1_Registration - Clicked on 'My Account' link.
+2024-11-21 22:31:06 [TestNG-tests-2] INFO  testcases.TC1_Registration - Clicked on 'Register' link, navigating to the Registration Page.
+2024-11-21 22:31:06 [TestNG-tests-2] INFO  testcases.TC1_Registration - Entering user details for registration...
+2024-11-21 22:31:06 [TestNG-tests-2] INFO  testcases.TC1_Registration - First Name set successfully.
+2024-11-21 22:31:06 [TestNG-tests-2] INFO  testcases.TC1_Registration - Last Name set successfully.
+2024-11-21 22:31:06 [TestNG-tests-2] INFO  testcases.TC1_Registration - Entered Email: KVmOP@gmail.com
+2024-11-21 22:31:07 [TestNG-tests-2] INFO  testcases.TC1_Registration - Entered Telephone: 21933
+2024-11-21 22:31:07 [TestNG-tests-1] INFO  testcases.TC1_Registration - Clicked on 'Register' link, navigating to the Registration Page.
+2024-11-21 22:31:07 [TestNG-tests-1] INFO  testcases.TC1_Registration - Entering user details for registration...
+2024-11-21 22:31:07 [TestNG-tests-1] INFO  testcases.TC1_Registration - First Name set successfully.
+2024-11-21 22:31:07 [TestNG-tests-2] INFO  testcases.TC1_Registration - Entered and confirmed password successfully.
+2024-11-21 22:31:07 [TestNG-tests-1] INFO  testcases.TC1_Registration - Last Name set successfully.
+2024-11-21 22:31:07 [TestNG-tests-2] INFO  testcases.TC1_Registration - Agreed to Privacy Policy.
+2024-11-21 22:31:07 [TestNG-tests-1] INFO  testcases.TC1_Registration - Entered Email: NIzfm@gmail.com
+2024-11-21 22:31:07 [TestNG-tests-1] INFO  testcases.TC1_Registration - Entered Telephone: 37352
+2024-11-21 22:31:07 [TestNG-tests-1] INFO  testcases.TC1_Registration - Entered and confirmed password successfully.
+2024-11-21 22:31:07 [TestNG-tests-1] INFO  testcases.TC1_Registration - Agreed to Privacy Policy.
+2024-11-21 22:31:08 [TestNG-tests-2] INFO  testcases.TC1_Registration - Clicked 'Continue' to submit the registration form.
+2024-11-21 22:31:08 [TestNG-tests-2] INFO  testcases.TC1_Registration - Validating the confirmation message...
+2024-11-21 22:31:08 [TestNG-tests-2] INFO  testcases.TC1_Registration - Account registration successful. Confirmation message validated.
+2024-11-21 22:31:08 [TestNG-tests-1] INFO  testcases.TC1_Registration - Clicked 'Continue' to submit the registration form.
+2024-11-21 22:31:08 [TestNG-tests-1] INFO  testcases.TC1_Registration - Validating the confirmation message...
+2024-11-21 22:31:09 [TestNG-tests-1] INFO  testcases.TC1_Registration - Account registration successful. Confirmation message validated.
+2024-11-21 22:31:09 [TestNG-tests-1] INFO  testcases.TC1_Registration - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:31:10 [TestNG-tests-2] INFO  testcases.TC1_Registration - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:31:10 [TestNG-tests-1] INFO  testcases.TC2_Login - WebDriver initialized for: chrome
+2024-11-21 22:31:11 [TestNG-tests-2] INFO  testcases.TC2_Login - WebDriver initialized for: edge
+2024-11-21 22:31:13 [TestNG-tests-1] INFO  testcases.TC2_Login - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:31:13 [TestNG-tests-1] INFO  testcases.TC2_Login - Clicked on 'My Account' link.
+2024-11-21 22:31:13 [TestNG-tests-1] INFO  testcases.TC2_Login - Clicked on 'Login' link, navigating to the Login Page.
+2024-11-21 22:31:13 [TestNG-tests-1] INFO  testcases.TC2_Login - Entering user login credentials...
+2024-11-21 22:31:13 [TestNG-tests-2] INFO  testcases.TC2_Login - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-21 22:31:13 [TestNG-tests-1] INFO  testcases.TC2_Login - Entered email: mhoque.cloud@gmail.com
+2024-11-21 22:31:14 [TestNG-tests-1] INFO  testcases.TC2_Login - Entered password.
+2024-11-21 22:31:14 [TestNG-tests-2] INFO  testcases.TC2_Login - Clicked on 'My Account' link.
+2024-11-21 22:31:14 [TestNG-tests-2] INFO  testcases.TC2_Login - Clicked on 'Login' link, navigating to the Login Page.
+2024-11-21 22:31:14 [TestNG-tests-2] INFO  testcases.TC2_Login - Entering user login credentials...
+2024-11-21 22:31:14 [TestNG-tests-2] INFO  testcases.TC2_Login - Entered email: mhoque.cloud@gmail.com
+2024-11-21 22:31:15 [TestNG-tests-2] INFO  testcases.TC2_Login - Entered password.
+2024-11-21 22:31:15 [TestNG-tests-1] INFO  testcases.TC2_Login - Clicked on the 'Login' button.
+2024-11-21 22:31:15 [TestNG-tests-1] INFO  testcases.TC2_Login - Verifying if the 'My Account' page is displayed...
+2024-11-21 22:31:15 [TestNG-tests-1] INFO  testcases.TC2_Login - Login successful. 'My Account' page is displayed.
+2024-11-21 22:31:15 [TestNG-tests-1] INFO  testcases.TC2_Login - WebDriver quit and removed from ThreadLocal.
+2024-11-21 22:31:16 [TestNG-tests-2] INFO  testcases.TC2_Login - Clicked on the 'Login' button.
+2024-11-21 22:31:16 [TestNG-tests-2] INFO  testcases.TC2_Login - Verifying if the 'My Account' page is displayed...
+2024-11-21 22:31:16 [TestNG-tests-2] INFO  testcases.TC2_Login - Login successful. 'My Account' page is displayed.
+2024-11-21 22:31:17 [TestNG-tests-2] INFO  testcases.TC2_Login - WebDriver quit and removed from ThreadLocal.
+2024-11-21 23:09:53 [TestNG-tests-1] ERROR testcases.TC1_Registration - Invalid OS: MacOS Sequoia
+2024-11-21 23:09:53 [TestNG-tests-1] ERROR testcases.TC1_Registration - No matching browser: Safari
