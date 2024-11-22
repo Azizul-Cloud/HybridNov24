@@ -1,7 +1,5 @@
 package pageobjects;
 
-org.openqa.selenium.TimeoutException;
-
 import java.time.Duration;
 
 import org.openqa.selenium.WebDriver;

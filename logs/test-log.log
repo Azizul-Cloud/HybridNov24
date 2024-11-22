@@ -577,3 +577,111 @@
 2024-11-21 22:31:17 [TestNG-tests-2] INFO  testcases.TC2_Login - WebDriver quit and removed from ThreadLocal.
 2024-11-21 23:09:53 [TestNG-tests-1] ERROR testcases.TC1_Registration - Invalid OS: MacOS Sequoia
 2024-11-21 23:09:53 [TestNG-tests-1] ERROR testcases.TC1_Registration - No matching browser: Safari
+2024-11-22 10:20:07 [main] INFO  testcases.TC6_EndToEndTest - WebDriver initialized for: chrome
+2024-11-22 10:20:12 [main] INFO  testcases.TC6_EndToEndTest - WebDriver quit and removed from ThreadLocal.
+2024-11-22 10:20:53 [main] INFO  testcases.TC6_EndToEndTest - WebDriver initialized for: chrome
+2024-11-22 10:20:57 [main] INFO  testcases.TC6_EndToEndTest - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-22 10:21:00 [main] INFO  testcases.TC6_EndToEndTest - Registration Confirmation: Your Account Has Been Created!
+2024-11-22 10:21:01 [main] INFO  testcases.TC6_EndToEndTest - WebDriver quit and removed from ThreadLocal.
+2024-11-22 10:22:31 [main] INFO  testcases.TC6_EndToEndTest - WebDriver initialized for: chrome
+2024-11-22 10:22:35 [main] INFO  testcases.TC6_EndToEndTest - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-22 10:22:39 [main] INFO  testcases.TC6_EndToEndTest - Registration Confirmation: Your Account Has Been Created!
+2024-11-22 10:22:40 [main] INFO  testcases.TC6_EndToEndTest - WebDriver quit and removed from ThreadLocal.
+2024-11-22 10:25:02 [main] INFO  testcases.TC6_EndToEndTest - WebDriver initialized for: chrome
+2024-11-22 10:25:06 [main] INFO  testcases.TC6_EndToEndTest - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-22 10:25:12 [main] INFO  testcases.TC6_EndToEndTest - Registration Confirmation: Your Account Has Been Created!
+2024-11-22 10:25:12 [main] INFO  testcases.TC6_EndToEndTest - WebDriver quit and removed from ThreadLocal.
+2024-11-22 10:36:33 [main] INFO  testcases.TC6_EndToEndTest - WebDriver initialized for: chrome
+2024-11-22 10:36:37 [main] INFO  testcases.TC6_EndToEndTest - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-22 10:36:41 [main] INFO  testcases.TC6_EndToEndTest - Registration Confirmation: Your Account Has Been Created!
+2024-11-22 10:36:42 [main] INFO  testcases.TC6_EndToEndTest - Clicking 'Continue' button to return to the Home Page...
+2024-11-22 10:36:43 [main] INFO  testcases.TC6_EndToEndTest - Verifying if Home Page is displayed after logout...
+2024-11-22 10:36:43 [main] INFO  testcases.TC6_EndToEndTest - Logout successful, navigated to Home Page.
+2024-11-22 10:36:43 [main] INFO  testcases.TC6_EndToEndTest - Logging into the application with email: dJACU@gmail.com
+2024-11-22 10:36:45 [main] INFO  testcases.TC6_EndToEndTest - Is My Account page displayed? true
+2024-11-22 10:36:45 [main] INFO  testcases.TC6_EndToEndTest - Searching and adding product to the cart...
+2024-11-22 10:36:51 [main] INFO  testcases.TC6_EndToEndTest - Product added to cart: true
+2024-11-22 10:36:51 [main] INFO  testcases.TC6_EndToEndTest - Verifying items in the shopping cart...
+2024-11-22 10:36:52 [main] INFO  testcases.TC6_EndToEndTest - WebDriver quit and removed from ThreadLocal.
+2024-11-22 10:47:47 [main] INFO  testcases.TC6_EndToEndTest - WebDriver initialized for: chrome
+2024-11-22 10:47:50 [main] INFO  testcases.TC6_EndToEndTest - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-22 10:47:53 [main] INFO  testcases.TC6_EndToEndTest - Registration Confirmation: Your Account Has Been Created!
+2024-11-22 10:47:54 [main] INFO  testcases.TC6_EndToEndTest - Clicking 'Continue' button to return to the Home Page...
+2024-11-22 10:47:54 [main] INFO  testcases.TC6_EndToEndTest - Verifying if Home Page is displayed after logout...
+2024-11-22 10:47:54 [main] INFO  testcases.TC6_EndToEndTest - Logout successful, navigated to Home Page.
+2024-11-22 10:47:54 [main] INFO  testcases.TC6_EndToEndTest - Logging into the application with email: tMlJr@gmail.com
+2024-11-22 10:47:56 [main] INFO  testcases.TC6_EndToEndTest - Is My Account page displayed? true
+2024-11-22 10:47:56 [main] INFO  testcases.TC6_EndToEndTest - Searching and adding product to the cart...
+2024-11-22 10:48:02 [main] INFO  testcases.TC6_EndToEndTest - Product added to cart: true
+2024-11-22 10:48:02 [main] INFO  testcases.TC6_EndToEndTest - Verifying items in the shopping cart...
+2024-11-22 10:48:03 [main] INFO  testcases.TC6_EndToEndTest - WebDriver quit and removed from ThreadLocal.
+2024-11-22 10:50:58 [main] INFO  testcases.TC6_EndToEndTest - WebDriver initialized for: chrome
+2024-11-22 10:51:01 [main] INFO  testcases.TC6_EndToEndTest - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-22 10:51:04 [main] INFO  testcases.TC6_EndToEndTest - Registration Confirmation: Your Account Has Been Created!
+2024-11-22 10:51:05 [main] INFO  testcases.TC6_EndToEndTest - Clicking 'Continue' button to return to the Home Page...
+2024-11-22 10:51:05 [main] INFO  testcases.TC6_EndToEndTest - Verifying if Home Page is displayed after logout...
+2024-11-22 10:51:05 [main] INFO  testcases.TC6_EndToEndTest - Logout successful, navigated to Home Page.
+2024-11-22 10:51:05 [main] INFO  testcases.TC6_EndToEndTest - Logging into the application with email: ECBVS@gmail.com
+2024-11-22 10:51:07 [main] INFO  testcases.TC6_EndToEndTest - Is My Account page displayed? true
+2024-11-22 10:51:07 [main] INFO  testcases.TC6_EndToEndTest - Searching and adding product to the cart...
+2024-11-22 10:51:12 [main] INFO  testcases.TC6_EndToEndTest - Product added to cart: true
+2024-11-22 10:51:12 [main] INFO  testcases.TC6_EndToEndTest - Verifying items in the shopping cart...
+2024-11-22 10:51:16 [main] INFO  testcases.TC6_EndToEndTest - Total price in shopping cart: $246.40
+2024-11-22 10:51:16 [main] INFO  testcases.TC6_EndToEndTest - WebDriver quit and removed from ThreadLocal.
+2024-11-22 10:52:54 [main] INFO  testcases.TC6_EndToEndTest - WebDriver initialized for: chrome
+2024-11-22 10:52:58 [main] INFO  testcases.TC6_EndToEndTest - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-22 10:53:01 [main] INFO  testcases.TC6_EndToEndTest - Registration Confirmation: Your Account Has Been Created!
+2024-11-22 10:53:02 [main] INFO  testcases.TC6_EndToEndTest - Clicking 'Continue' button to return to the Home Page...
+2024-11-22 10:53:03 [main] INFO  testcases.TC6_EndToEndTest - Verifying if Home Page is displayed after logout...
+2024-11-22 10:53:03 [main] INFO  testcases.TC6_EndToEndTest - Logout successful, navigated to Home Page.
+2024-11-22 10:53:03 [main] INFO  testcases.TC6_EndToEndTest - Logging into the application with email: bfSpY@gmail.com
+2024-11-22 10:53:05 [main] INFO  testcases.TC6_EndToEndTest - Is My Account page displayed? true
+2024-11-22 10:53:05 [main] INFO  testcases.TC6_EndToEndTest - Searching and adding product to the cart...
+2024-11-22 10:53:40 [main] INFO  testcases.TC6_EndToEndTest - WebDriver initialized for: chrome
+2024-11-22 10:53:43 [main] INFO  testcases.TC6_EndToEndTest - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-22 10:53:46 [main] INFO  testcases.TC6_EndToEndTest - Registration Confirmation: Your Account Has Been Created!
+2024-11-22 10:53:47 [main] INFO  testcases.TC6_EndToEndTest - Clicking 'Continue' button to return to the Home Page...
+2024-11-22 10:53:48 [main] INFO  testcases.TC6_EndToEndTest - Verifying if Home Page is displayed after logout...
+2024-11-22 10:53:48 [main] INFO  testcases.TC6_EndToEndTest - Logout successful, navigated to Home Page.
+2024-11-22 10:53:48 [main] INFO  testcases.TC6_EndToEndTest - Logging into the application with email: wYLcX@gmail.com
+2024-11-22 10:53:50 [main] INFO  testcases.TC6_EndToEndTest - Is My Account page displayed? true
+2024-11-22 10:53:50 [main] INFO  testcases.TC6_EndToEndTest - Searching and adding product to the cart...
+2024-11-22 10:54:15 [main] INFO  testcases.TC6_EndToEndTest - Product added to cart: false
+2024-11-22 10:54:35 [main] INFO  testcases.TC6_EndToEndTest - Verifying items in the shopping cart...
+2024-11-22 10:54:39 [main] INFO  testcases.TC6_EndToEndTest - Total price in shopping cart: $123.20
+2024-11-22 10:54:39 [main] INFO  testcases.TC6_EndToEndTest - WebDriver quit and removed from ThreadLocal.
+2024-11-22 11:02:32 [main] INFO  testcases.TC6_EndToEndTest - WebDriver initialized for: chrome
+2024-11-22 11:02:36 [main] INFO  testcases.TC6_EndToEndTest - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-22 11:02:40 [main] INFO  testcases.TC6_EndToEndTest - Registration Confirmation: Your Account Has Been Created!
+2024-11-22 11:02:41 [main] INFO  testcases.TC6_EndToEndTest - Clicking 'Continue' button to return to the Home Page...
+2024-11-22 11:02:42 [main] INFO  testcases.TC6_EndToEndTest - Verifying if Home Page is displayed after logout...
+2024-11-22 11:02:42 [main] INFO  testcases.TC6_EndToEndTest - Logout successful, navigated to Home Page.
+2024-11-22 11:02:42 [main] INFO  testcases.TC6_EndToEndTest - Logging into the application with email: YaiMD@gmail.com
+2024-11-22 11:02:45 [main] INFO  testcases.TC6_EndToEndTest - Is My Account page displayed? true
+2024-11-22 11:02:45 [main] INFO  testcases.TC6_EndToEndTest - Searching and adding product to the cart...
+2024-11-22 11:03:12 [main] INFO  testcases.TC6_EndToEndTest - Product added to cart: false
+2024-11-22 11:03:33 [main] INFO  testcases.TC6_EndToEndTest - Verifying items in the shopping cart...
+2024-11-22 11:03:36 [main] INFO  testcases.TC6_EndToEndTest - Total price in shopping cart: $1,204.00
+2024-11-22 11:03:37 [main] INFO  testcases.TC6_EndToEndTest - WebDriver quit and removed from ThreadLocal.
+2024-11-22 11:06:15 [main] INFO  testcases.TC5_AddToCart - WebDriver initialized for: chrome
+2024-11-22 11:06:19 [main] INFO  testcases.TC5_AddToCart - Navigated to application URL: https://tutorialsninja.com/demo/
+2024-11-22 11:06:19 [main] INFO  testcases.TC5_AddToCart - Entered product name in the search box: MacBook
+2024-11-22 11:06:20 [main] INFO  testcases.TC5_AddToCart - Clicked the Search button.
+2024-11-22 11:06:20 [main] INFO  testcases.TC5_AddToCart - Product found in search results: MacBook
+2024-11-22 11:06:21 [main] INFO  testcases.TC5_AddToCart - Selected product: MacBook
+2024-11-22 11:06:22 [main] INFO  testcases.TC5_AddToCart - Set quantity to: 2
+2024-11-22 11:06:22 [main] INFO  testcases.TC5_AddToCart - Clicked 'Add to Cart' for product: MacBook
+2024-11-22 11:06:23 [main] INFO  testcases.TC5_AddToCart - WebDriver quit and removed from ThreadLocal.
+2024-11-22 11:08:19 [main] INFO  testcases.TC6_EndToEndTest - WebDriver initialized for: chrome
+2024-11-22 11:08:23 [main] INFO  testcases.TC6_EndToEndTest - Navigated to application URL: https://naveenautomationlabs.com/opencart
+2024-11-22 11:08:27 [main] INFO  testcases.TC6_EndToEndTest - Registration Confirmation: Your Account Has Been Created!
+2024-11-22 11:08:28 [main] INFO  testcases.TC6_EndToEndTest - Clicking 'Continue' button to return to the Home Page...
+2024-11-22 11:08:28 [main] INFO  testcases.TC6_EndToEndTest - Verifying if Home Page is displayed after logout...
+2024-11-22 11:08:28 [main] INFO  testcases.TC6_EndToEndTest - Logout successful, navigated to Home Page.
+2024-11-22 11:08:28 [main] INFO  testcases.TC6_EndToEndTest - Logging into the application with email: uHyhm@gmail.com
+2024-11-22 11:08:31 [main] INFO  testcases.TC6_EndToEndTest - Is My Account page displayed? true
+2024-11-22 11:08:31 [main] INFO  testcases.TC6_EndToEndTest - Searching and adding product to the cart...
+2024-11-22 11:08:37 [main] INFO  testcases.TC6_EndToEndTest - Product added to cart: true
+2024-11-22 11:08:37 [main] INFO  testcases.TC6_EndToEndTest - Verifying items in the shopping cart...
+2024-11-22 11:08:40 [main] INFO  testcases.TC6_EndToEndTest - Total price in shopping cart: $1,204.00
+2024-11-22 11:08:41 [main] INFO  testcases.TC6_EndToEndTest - WebDriver quit and removed from ThreadLocal.

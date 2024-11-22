@@ -33,11 +33,11 @@ public class BaseClass {
     public WebDriver driver;
     public Logger logger; // Logger instance for logging
     public Properties properties;
-    SoftAssert softAssert = new SoftAssert(); // SoftAssert for test validations
+    public SoftAssert softAssert = new SoftAssert(); // SoftAssert for test validations
 
     // LambdaTest credentials
-    private final String LT_USERNAME = "pavan.teens"; // Replace with your LambdaTest username
-    private final String LT_ACCESS_KEY = "faksflksaflkarkieutnrwvfvfsrwqejuh"; // Replace with your access key
+    private final String LT_USERNAME = "mhoque.cloud"; // Replace with your LambdaTest username
+    private final String LT_ACCESS_KEY = "XsQNeduaQQ6jGS2j0Ehibt2i7c0eyIHK4TV1eCdqu2XH15zQnV"; // Replace with your access key
 
     // Setup method to initialize WebDriver before test class execution
     @BeforeClass(groups = { "Sanity", "Regression", "Master", "Datadriven" })
